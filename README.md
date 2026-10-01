@@ -7,7 +7,7 @@
 
 ## 수정 모드
 
-문서 왼쪽 패널의 **✏️ 수정 모드**에서 표 · 설명 · 제목을 직접 고칠 수 있고, 고친 내용은 `1 개정 이력`에 자동으로 기록됩니다.
+문서 왼쪽 패널의 **✏️ 수정 모드**에서 표 · 설명 · 제목을 직접 고칠 수 있고, **📌 리비전 만들기**를 누르면 마지막 리비전 이후 바뀐 항목이 `1 개정 이력`에 기록됩니다. 리비전은 개정 이력 표에서 삭제할 수 있습니다.
 수정 내용은 이 저장소의 `chat-plan-db` 이슈에 암호화되어 저장됩니다. 이 이슈를 직접 수정하거나 닫지 마세요.
 
 처음 한 번 저장소 연결이 필요합니다: [토큰 만들기](https://github.com/settings/personal-access-tokens/new) → Repository access는 `chat_plan_document`만 → Repository permissions에서 **Issues: Read and write** → 문서의 연결 창에 붙여 넣기.
